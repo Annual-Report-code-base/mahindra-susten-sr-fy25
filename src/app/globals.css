@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+.marginal {
+    width: 86%;
+    max-width: 1500px;
+    margin: auto;
+    padding: 2% 0;
+}
+
+@font-face {
+  font-family: 'georama';
+  src: url('/fonts/Georama_SemiExpanded-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'georama-bold';
+  src: url('/fonts/Georama_SemiExpanded-Bold.ttf') format('truetype');
+  font-weight: 800;
+  font-style: normal;
+}
